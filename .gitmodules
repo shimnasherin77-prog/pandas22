@@ -1,0 +1,3 @@
+[submodule "pandas1"]
+ path = pandas1
+url = https://github.com/shimnasherin77-prog/pandas1.git
